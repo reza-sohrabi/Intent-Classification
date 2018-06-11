@@ -1,0 +1,4 @@
+# GloVe word vectors due to huge size
+processed_data/glove50.txt
+# Jupyter Notebook
+.ipynb_checkpoints
