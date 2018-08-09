@@ -7,7 +7,7 @@ In my first attempt, I have tried RNNs as my first architecture and have achieve
 -----------------------------------------------------------------
 I added the convolutional architecture as shown in the figure below and achieved similar results.
 
-![](https://github.com/reza-sohrabi-ucr/Intent-Classification/blob/master/images/arch4.PNG)
+![](https://github.com/reza-sohrabi-ucr/Intent-Classification/blob/master/images/arch4.png)
 
 -----------------------------------------------------------------
 This is a work in progress, and I will explore other architectures, too.
